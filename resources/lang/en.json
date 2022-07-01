@@ -1,0 +1,6 @@
+{
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": 
+    "Your translation string for 'tr' locale here.",
+    "The :attribute must be at least :min.":" El atributo :attribute debe tener minimo :min caracteres."
+    
+}
